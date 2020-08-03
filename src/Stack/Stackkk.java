@@ -1,4 +1,4 @@
-package Data_Structures;//import java.util.Scanner;
+package Stack;//import java.util.Scanner;
 
 public class Stackkk {
     public static int[] s = new int[5];
