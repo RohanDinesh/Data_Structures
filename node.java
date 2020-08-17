@@ -1,6 +1,8 @@
-package LinkedList;
+package Doubly_LinkedList;
 
 public class node {
-    int info;
-    node link;
+	int info;
+	node right;
+	node left;
+
 }
